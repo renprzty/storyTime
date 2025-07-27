@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "943739566893",
+    "project_id": "storytime-4371b",
+    "storage_bucket": "storytime-4371b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943739566893:android:22c0a0edb3710e8aba31a4",
+        "android_client_info": {
+          "package_name": "com.example.storyajabukanstorypass"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBn0Oih3bBo_FcfRe6PUbTBnu3dkcfwOkI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
